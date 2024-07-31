@@ -1,0 +1,85 @@
+{
+    "contracts/libraries/TokenMsgFlag.tsol": {
+        "modificationTime": 1669048430203
+    },
+    "contracts/TokenDice.tsol": {
+        "modificationTime": 1722438710553
+    },
+    "contracts/AnyOwner.tsol": {
+        "modificationTime": 1722325589691
+    },
+    "node_modules/@broxus/tip3/contracts/TokenRootUpgradeable.tsol": {
+        "modificationTime": 1722329838652
+    },
+    "node_modules/@broxus/tip3/contracts/TokenWalletUpgradeable.tsol": {
+        "modificationTime": 1722329838667
+    },
+    "/Users/ilya/Documents/repo/everscale/docs-lessons/everscale-token-dice-example-contracts/node_modules/@broxus/tip3/contracts/interfaces/ITokenRoot.tsol": {
+        "modificationTime": 1722329838627
+    },
+    "/Users/ilya/Documents/repo/everscale/docs-lessons/everscale-token-dice-example-contracts/node_modules/@broxus/tip3/contracts/interfaces/ITokenWallet.tsol": {
+        "modificationTime": 1722329838629
+    },
+    "/Users/ilya/Documents/repo/everscale/docs-lessons/everscale-token-dice-example-contracts/node_modules/@broxus/tip3/contracts/interfaces/IAcceptTokensTransferCallback.tsol": {
+        "modificationTime": 1722329838618
+    },
+    "/Users/ilya/Documents/repo/everscale/docs-lessons/everscale-token-dice-example-contracts/node_modules/@broxus/tip3/contracts/interfaces/IAcceptTokensMintCallback.tsol": {
+        "modificationTime": 1722329838616
+    },
+    "node_modules/@broxus/tip3/contracts/abstract/TokenRootTransferableOwnershipBase.tsol": {
+        "modificationTime": 1722329838650
+    },
+    "node_modules/@broxus/tip3/contracts/abstract/TokenRootBurnPausableBase.tsol": {
+        "modificationTime": 1722329838649
+    },
+    "node_modules/@broxus/tip3/contracts/abstract/TokenRootBurnableByRootBase.tsol": {
+        "modificationTime": 1722329838648
+    },
+    "node_modules/@broxus/tip3/contracts/abstract/TokenRootDisableableMintBase.tsol": {
+        "modificationTime": 1722329838649
+    },
+    "node_modules/@broxus/tip3/contracts/interfaces/ITokenRootUpgradeable.tsol": {
+        "modificationTime": 1722329838628
+    },
+    "node_modules/@broxus/tip3/contracts/interfaces/ITokenWalletUpgradeable.tsol": {
+        "modificationTime": 1722329838629
+    },
+    "node_modules/@broxus/tip3/contracts/interfaces/IVersioned.tsol": {
+        "modificationTime": 1722329838633
+    },
+    "node_modules/@broxus/tip3/contracts/libraries/TokenErrors.tsol": {
+        "modificationTime": 1722329838638
+    },
+    "node_modules/@broxus/tip3/contracts/libraries/TokenMsgFlag.tsol": {
+        "modificationTime": 1722329838641
+    },
+    "node_modules/@broxus/tip3/contracts/libraries/TokenGas.tsol": {
+        "modificationTime": 1722329838640
+    },
+    "node_modules/@broxus/tip3/contracts/TokenWalletPlatform.tsol": {
+        "modificationTime": 1722329838666
+    },
+    "node_modules/@broxus/tip3/contracts/abstract/TokenWalletBurnableByRootBase.tsol": {
+        "modificationTime": 1722329838664
+    },
+    "node_modules/@broxus/tip3/contracts/abstract/TokenWalletBurnableBase.tsol": {
+        "modificationTime": 1722329838663
+    },
+    "node_modules/@broxus/tip3/contracts/abstract/TokenWalletDestroyableBase.tsol": {
+        "modificationTime": 1722329838664
+    },
+    "compilerSettings": {
+        "externalContracts": {
+            "node_modules/@broxus/tip3/precompiled": [
+                "TokenWalletPlatform"
+            ],
+            "node_modules/@broxus/tip3/contracts": [
+                "TokenRootUpgradeable",
+                "TokenWalletUpgradeable"
+            ]
+        },
+        "compilerPath": "/Users/ilya/Library/Caches/locklift-nodejs/compiler/0_62_0/solc_0_62_0_darwin",
+        "linkerPath": "/Users/ilya/Library/Caches/locklift-nodejs/linker/0_15_48/tvm_linker_0_15_48_darwin",
+        "linkerLibPath": "/Users/ilya/Library/Caches/locklift-nodejs/lib/0_62_0/stdlib_sol_0_62_0.tvm"
+    }
+}
